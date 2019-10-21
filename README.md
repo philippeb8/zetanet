@@ -1,4 +1,4 @@
-ZetaNet by Fornux Inc. - Copyright 2019
+ZetaNet 0.1 by Fornux Inc. - Copyright 2019
 
 Portable Facebook clone / improvement.
 
